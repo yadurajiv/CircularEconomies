@@ -7,8 +7,12 @@
 	display: flex;
 	padding: 10px 0 ;
 	padding-bottom: 40px;
-	margin-bottom: 40px;
-	border-bottom: 2px solid #cecece;
+	margin-bottom: 40px;	
+	flex: 100%;
+}
+
+.section.one {
+	border-bottom: 1px solid #cecece;
 }
 
 .section .content {
@@ -23,6 +27,10 @@
 	padding: 0 10px;
 }
 
+.section.one h3, .section.two h3 {
+	margin-top: 20px;
+}
+
 .section.one p, .section.one h3 {
 	padding-right: 40px;    
 }
@@ -34,7 +42,7 @@
 .bios {
 	display: flex;
 	flex-wrap: wrap;
-	border-bottom: 2px solid #cecece;
+	border-bottom: 1px solid #cecece;
 }
 
 .bio {
@@ -77,6 +85,15 @@
 		flex: 100%;
 	}
 
+	.bio .content {
+		padding: 20px 10px 20px 10px
+	}
+
+	.bio .meta div {
+		flex: 50%;
+		text-align: center;
+	}
+
 	.section {
 		display: block;
 	}
@@ -93,7 +110,11 @@
 		padding-right: 0;    
 	}
 
-	.section.two p, .section.two h3 {
-		padding-left: 0;    
+	.section.one h3, .section.two h3 {
+		text-align: center;
 	}
+
+	.section.two p, .section.two h3 {
+		padding-left: 0;  
+	} 
 }
