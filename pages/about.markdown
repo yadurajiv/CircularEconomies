@@ -9,6 +9,12 @@ weight: 4
 {% include_relative about/bio-2.html %}
 {% include_relative about/bio-3.html %}
 {% include_relative about/bio-4.html %}
+{% include_relative about/bio-5.html %}
+{% include_relative about/bio-6.html %}
+{% include_relative about/bio-7.html %}
+{% include_relative about/bio-8.html %}
+{% include_relative about/bio-9.html %}
+{% include_relative about/bio-10.html %}	
 </div>
 
 <div class="credits">
