@@ -4,11 +4,8 @@ title: Home
 weight: 1
 ---
 <div class="section one">
-<div class="content">
-{% include_relative pages/home/section-one.html %}
-</div>
 <div class="image">
-<img src="https://via.placeholder.com/350"  />
+<img src="https://via.placeholder.com/700x350"  />
 </div>
 </div>
 
