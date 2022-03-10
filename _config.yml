@@ -20,7 +20,7 @@
 
 title: Contact
 email: c.m.bentley@sheffield.ac.uk
-description: Project CIRCLES is a research network. It was established in 2022 through the "Data and Systems Mapping for Improving Developing Country Circular Economies" project sponsored by the Royal Academy of Engineering - raeng.org.uk.
+description: Project CIRCLES is a research network. It was established in 2022 through the "Data and Systems Mapping for Improving Developing Country Circular Economies" project sponsored by <a href="https://www.raeng.org.uk" target="_blank">the Royal Academy of Engineering</a>.
 baseurl: "CircularEconomies" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
