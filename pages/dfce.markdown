@@ -9,13 +9,13 @@ weight: 2
 {% include_relative dfce/section-one.html %}
 </div>
 <div class="image">
-<img src="https://via.placeholder.com/350"  />
+<img src="https://via.placeholder.com/460x450"  />
 </div>
 </div>
 
 <div class="section two">
 <div class="image">
-<img src="https://via.placeholder.com/250x350"  />
+<img src="https://via.placeholder.com/460x450"  />
 </div>
 <div class="content">
 {% include_relative dfce/section-two.html %}
