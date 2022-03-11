@@ -52,6 +52,10 @@ body {
 
 .site-nav .page-link {
 	color: #C93A7D;
+	text-decoration: none;
+}
+
+.site-nav .page-link.current {
 	text-decoration: underline;
 }
 
