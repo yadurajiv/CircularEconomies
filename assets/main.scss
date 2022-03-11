@@ -55,7 +55,7 @@ body {
 	text-decoration: underline;
 }
 
-a {
+a:link, a:visited, a:hover, a:active {
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: bold;
@@ -63,6 +63,11 @@ a {
 	color: #C93A7D;
 	text-decoration: underline;
 }
+
+a:hover {
+	text-decoration: none;
+}
+
 
 .section {
 	display: flex;
