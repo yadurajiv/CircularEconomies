@@ -5,7 +5,7 @@ weight: 1
 ---
 <div class="section one">
 <div class="image">
-<img src="https://via.placeholder.com/1110x450"  />
+<img src="/assets/images/banner_1024.png"  />
 </div>
 </div>
 
