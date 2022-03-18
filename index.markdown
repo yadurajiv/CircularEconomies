@@ -5,7 +5,7 @@ weight: 1
 ---
 <div class="section one">
 <div class="image">
-<img src="assets/images/banner_1024.png"  />
+<img src="assets/images/banner_1024.png" width="1024" height="1024"  />
 </div>
 </div>
 
