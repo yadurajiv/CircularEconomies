@@ -5,7 +5,7 @@ weight: 1
 ---
 <div class="section one">
 <div class="image">
-<video poster="assets/images/banner_1024.png" width="1000" loop="true" autoplay="autoplay" controls muted>
+<video poster="assets/images/banner_1024.png" width="1000" loop="true" autoplay="autoplay" muted>
   <source src="assets/images/banner.mp4" type="video/mp4">
   <img src="assets/images/banner_1024.png" width="1024" />
 </video>
