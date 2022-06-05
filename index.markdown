@@ -11,10 +11,10 @@ weight: 1
 </video>
 </div>
 </div>
-
 <div class="section two">
 <div class="image">
-<img src="https://via.placeholder.com/460x450"  />
+<img src="assets/images/1-Circles-informal-recyclers.png
+" width="460"  />
 </div>
 <div class="content">
 {% include_relative pages/home/section-two.html %}

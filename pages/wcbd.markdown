@@ -9,13 +9,13 @@ weight: 3
 {% include_relative wcbd/section-one.html %}
 </div>
 <div class="image">
-<img src="https://via.placeholder.com/460x450"  />
+<img src="assets/images/4-Illustration-5-principles-report.png" width="460"  />
 </div>
 </div>
 
 <div class="section two">
 <div class="image">
-<img src="https://via.placeholder.com/460x450"  />
+<img src="assets/images/5-Hearing-community-circles.png" width="460"  />
 </div>
 <div class="content">
 {% include_relative wcbd/section-two.html %}
